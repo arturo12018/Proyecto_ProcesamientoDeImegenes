@@ -3,7 +3,12 @@
 
 # Autores 
   <ul>
-      <li>Munoz Garcia Arturo</li>
+      <li>Domínguez Fuentes Luis Mario<li>
+      <li>Muñoz Garcia Arturo<li>
+      <li>Ramírez Rivera Giezy Alberto</li>
+      <li>Serralde Flores Andrea</li>
+
+      
   </ul>
   
  
